@@ -41,8 +41,12 @@ The focus is on correct preprocessing, model selection, evaluation, and clear re
 ---
 
 ## Files
-- `Mehtab_Singh_Handwritten_Digit_Recognition_Classical_ML.ipynb`
-- `Mehtab_Singh_Handwritten_Digit_Recognition_Classical_ML.pdf`
+- `Mehtab_Singh_Virutalyyst_AI_Assignment.ipynb`  
+  Executed Jupyter Notebook with code, outputs, and explanations
+  
+- `Mehtab_Singh_Virutalyyst_AI_Assignment.pdf`  
+  PDF export of the executed notebook
+  
 - `mnist_train.csv`, `mnist_test.csv`
 
 ---
